@@ -1,0 +1,10 @@
+D:\Sandbox\MiniApp\bin\Debug\netcoreapp2.0\MiniApp.deps.json
+D:\Sandbox\MiniApp\bin\Debug\netcoreapp2.0\MiniApp.runtimeconfig.json
+D:\Sandbox\MiniApp\bin\Debug\netcoreapp2.0\MiniApp.runtimeconfig.dev.json
+D:\Sandbox\MiniApp\bin\Debug\netcoreapp2.0\MiniApp.dll
+D:\Sandbox\MiniApp\bin\Debug\netcoreapp2.0\MiniApp.pdb
+D:\Sandbox\MiniApp\obj\Debug\netcoreapp2.0\MiniApp.csproj.CoreCompileInputs.cache
+D:\Sandbox\MiniApp\obj\Debug\netcoreapp2.0\MiniApp.AssemblyInfoInputs.cache
+D:\Sandbox\MiniApp\obj\Debug\netcoreapp2.0\MiniApp.AssemblyInfo.cs
+D:\Sandbox\MiniApp\obj\Debug\netcoreapp2.0\MiniApp.dll
+D:\Sandbox\MiniApp\obj\Debug\netcoreapp2.0\MiniApp.pdb

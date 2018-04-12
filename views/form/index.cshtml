@@ -1,0 +1,11 @@
+@model FormModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<form asp-action="Index" asp-controller="Form">
+	<label asp-for="FirstName"></label>
+	<input asp-for="FirstName" placeholder="Your first name goes here"/>
+	
+	<label asp-for="LastName"></label>
+	<input asp-for="LastName" placeholder="Your last name goes here"/>
+	<input type="submit" />
+</form>
